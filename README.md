@@ -14,7 +14,7 @@ $ iexplore.exe ./index.html
 
 The repo is also deployed to GitHub Pages: [https://tsoding.github.io/formula/](https://tsoding.github.io/formula/)
 
-[![screenshot](./imgs/screenshot.png)](https://tsoding.github.io/formula/)
+[![screenshot](./imgs/screenshot-400.png)](https://tsoding.github.io/formula/)
 
 ## Model
 
